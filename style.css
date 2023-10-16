@@ -1,0 +1,54 @@
+body {
+    font-size: 15pt;
+    background-color: black;
+    text-align: center;
+}
+nav p {
+  color: ReD;
+  font-size: 30px;
+  
+} 
+nav img {
+  width: 150px;
+  border-radius: 100px;
+  
+}
+div h3 {
+  color: orangered;
+}
+div p {
+  color: lightskyblue;
+  font-size: 20px;
+ 
+}
+div img {
+  width: 300px;
+}
+div p b {
+  color: lightskyblue;
+}
+section p b a {
+  color: white;
+}
+section h3 {
+  color: orangered;
+}
+section a {
+  color: white;
+}
+section p {
+  color: lightskyblue;
+  font-size: 20px;
+}
+section input {
+  background-color:  white;
+ padding-right: 30px;
+ padding-left: 30px;
+ border-radius: 50px;
+}
+section a img {
+  width: 50px;
+}
+section textarea {
+  border-radius: 15px;
+}
